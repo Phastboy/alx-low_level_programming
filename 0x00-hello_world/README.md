@@ -11,4 +11,4 @@
 - `1-compiler`: Script that compiles c code but does not link.
 - `2-assembler`: Script that generate the assembly code of a C code.
 - `3-name`: Script that compiles a c file to an executable named `cisfun`.
-- `4-puts.c`: C program that prints `"programming is like building a multilingal puzzle"` with `puts function`.
+- `4-puts.c`: C program that prints `"programming is like building a multilingal puzzle` with `puts function`.
