@@ -13,3 +13,4 @@
 - `3-name`: Script that compiles a c file to an executable named `cisfun`.
 - `4-puts.c`: C program that prints `"programming is like building a multilingal puzzle` with `puts function`.
 - `5-printf.c`:  C program that prints exactly `with proper grammar, but the outcome is a piece of art,`, followed by a new line.
+- `6-size.c`: c program that print size of various types based on computer it is runs on.
